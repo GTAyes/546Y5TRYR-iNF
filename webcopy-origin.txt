@@ -1,0 +1,36 @@
+Uri: https://arxan.lol/
+File Name: C:\Downloaded Web Sites\arxan.lol\index.htm
+Content Type: text/html
+
+Uri: https://arxan.lol/cdn.jsdelivr.net/npm/vue/dist/vue.min.js
+File Name: C:\Downloaded Web Sites\arxan.lol\cdn.jsdelivr.net\npm\vue\dist\vue.min.js
+Content Type: application/javascript
+
+Uri: https://arxan.lol/files/app.js
+File Name: C:\Downloaded Web Sites\arxan.lol\files\app.js
+Content Type: application/javascript
+
+Uri: https://arxan.lol/files/logo-1.png
+File Name: C:\Downloaded Web Sites\arxan.lol\files\logo-1.png
+Content Type: image/png
+
+Uri: https://arxan.lol/files/logo.png
+File Name: C:\Downloaded Web Sites\arxan.lol\files\logo.png
+Content Type: image/png
+
+Uri: https://arxan.lol/files/style.css
+File Name: C:\Downloaded Web Sites\arxan.lol\files\style.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins
+File Name: C:\Downloaded Web Sites\arxan.lol\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\arxan.lol\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://publisher.linkvertise.com/cdn/linkvertise.js
+File Name: C:\Downloaded Web Sites\arxan.lol\cdn\linkvertise.js
+Content Type: application/javascript
+
